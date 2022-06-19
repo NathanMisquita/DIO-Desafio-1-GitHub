@@ -1,4 +1,4 @@
-# DIO-Desafio 1-Git/GitHub-Primeiro Repositório(Alemão)
+Primeiro Repositório(Alemão)
 Objetivo do repositório é aglutinar link uteis para ajudar interessados a exercitar seu conhecimento básico ou intermediário em língua alemã. 
 
 Tags uteis e seus significados: Inglês- é necessário conhecimento de inglês para compreender o conteúdo.
