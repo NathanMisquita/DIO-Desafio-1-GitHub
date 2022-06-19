@@ -30,6 +30,6 @@ ________________________________________________________________________________
 
 Nome: Lud Fonseca Sprache&Wissen (Gratuito)
 
-Descrição: canal no youtube de professora brasileira com doutorado em língua alemã.(Oferece curso pago a parte)
+Descrição: canal no youtube de professora brasileira com doutorado em língua alemã(Oferece curso pago a parte porem o canal em si tem muito conteúdo para consumo
 
 Link: https://www.youtube.com/c/Alem%C3%A3oFluente
